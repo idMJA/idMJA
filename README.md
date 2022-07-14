@@ -8,7 +8,7 @@ I Work as Discord Bot Builder
 
 ## Contact Me
 <div align="center">
-<a href="https://github.com/MJ-1532" target="_blank">
+<a href="https://github.com/MJ1532" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ" target="_blank">
@@ -19,7 +19,7 @@ I Work as Discord Bot Builder
 <br/>
 
 # Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MJ-1532&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MJ1532&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
 
