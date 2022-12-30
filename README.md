@@ -25,9 +25,9 @@ I Work as Discord Bot Builder
 <br/>
 
 <div align="center">
-<p><a href="https://github.com/MJ1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ1532&amp;layout=compact&theme=onedark" alt="Top Langs" /></p></div>
+<p><a href="https://github.com/MJ1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ1532&hide_border=true&amp;layout=compact&theme=onedark" alt="Top Langs" /></p></div>
 
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&theme=onedark" alt="Streak" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=onedark" alt="Streak" /></p></div>
