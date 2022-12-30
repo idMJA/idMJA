@@ -3,8 +3,8 @@
 I'm **MJ1532**
 I Work as Discord Bot Builder
 
-- 🔭 I’m currently working on discord bot builder
-- 🌱 I’m currently learning typescript
+- 🔭 I’m currently working on KejuHost
+- 🌱 I’m currently learning everyting
 
 ## Contact Me
 <div align="center">
@@ -19,9 +19,11 @@ I Work as Discord Bot Builder
 <br/>
 
 # Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MJ1532&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MJ1532&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" /></div>
 
 <br/>
 
 <div align="center">
-<p><a href="https://github.com/MJ1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ1532&amp;layout=compact" alt="Top Langs"></a></p></div>
+<p><a href="https://github.com/MJ1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ1532&amp;layout=compact&theme=onedark" alt="Top Langs"></a></p></div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&theme=onedark" alt="Streak" /></p>
