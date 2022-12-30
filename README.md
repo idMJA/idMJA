@@ -32,5 +32,13 @@ I Work as Discord Bot Builder
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=onedark" alt="Streak" /></p></div>
 
+<br/>
+
+# Profile Stats
 <div align="center">
-<p><img align="center" src="https://discord-readme-badge.vercel.app/api?id=959408296425574400" alt="Discord Profile" /></p></div>
+<p><img align="center" src="https://discord-readme-badge.vercel.app/api?id=959408296425574400" alt="Discord" /></p></div>
+
+<br/>
+
+<div align="center">
+<p><img align="center" src="[https://discord-readme-badge.vercel.app/api?id=959408296425574400](https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=default&show_offline=false&background_color=121212)" alt="Spotify" /></p></div>
