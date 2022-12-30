@@ -31,3 +31,6 @@ I Work as Discord Bot Builder
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=onedark" alt="Streak" /></p></div>
+
+<div align="center">
+<p><img align="center" src="https://discord-readme-badge.vercel.app/api?id=959408296425574400" alt="Discord Profile" /></p></div>
