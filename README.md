@@ -42,3 +42,8 @@ I Work as Discord Bot Builder
 
 <div align="center">
 <p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=default&show_offline=true&background_color=121212" href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" alt="Spotify" /></p></div>
+
+<br/>
+
+<div align="center">
+<p><img align="center" src"https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p></div>
