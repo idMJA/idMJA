@@ -46,4 +46,4 @@ I Work as Discord Bot Builder
 <br/>
 
 <div align="center">
-<p><img align="center" src"https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p></div>
+<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p></div>
