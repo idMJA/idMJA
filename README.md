@@ -30,7 +30,7 @@ I Work as Discord Bot Builder
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=tokyonight" alt="Streak" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=tokyonight_duo" alt="Streak" /></p></div>
 
 <br/>
 
