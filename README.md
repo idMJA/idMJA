@@ -43,7 +43,7 @@ I Work as Discord Bot Builder
 <div align="center">
 </div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true)
-
+<br/>
 <br/>
 
 <div align="center">
