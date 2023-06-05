@@ -3,7 +3,7 @@
 I'm **MJ1532**
 I Work as Discord Bot Builder
 
-- 🔭 I’m currently working on KejuHost
+- 🔭 I’m currently working on Keju Group
 - 🌱 I’m currently learning everyting
 
 ## Contact Me
