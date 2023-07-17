@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm **MJ1532**
-I Work as Discord Bot Builder
+I Work as **Nothing** :(
 
-- 🔭 I’m currently working on Keju Group
-- 🌱 I’m currently learning everyting
+- 🔭 I’m currently working on KejuGroup
+- 🌱 I’m currently learning everyting 😱
 
 ## Contact Me
 <div align="center">
