@@ -30,7 +30,7 @@ I Work as **Nothing** :(
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ1532&hide_border=true&theme=tokyonight_duo" alt="Streak" /></p></div>
+<p><img align="center" src="https://streak-stats.demolab.com?user=MJ1532&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p></div>
 
 <br/>
 
