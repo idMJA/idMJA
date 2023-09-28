@@ -36,12 +36,12 @@ I Work as **Nothing** :(
 
 # Profile Stats
 <div align="center">
-<p><img align="center" src="https://discord-readme-badge.vercel.app/api?id=885731228874051624" alt="Discord" /></p></div>
+<p><img align="center" src="https://discord-readme-badge-nine.vercel.app/api?id=885731228874051624" alt="Discord" /></p></div>
 
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://discord-readme-badge.vercel.app/api?id=949074540380688424" alt="Discord2" /></p></div>
+<p><img align="center" src="https://discord-readme-badge-nine.vercel.app/api?id=949074540380688424" alt="Discord2" /></p></div>
 
 <br/>
 
