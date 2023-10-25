@@ -46,12 +46,14 @@ I Work as **Nothing** :(
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" alt="Spotify" /></p></div>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
+<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a></div>
 
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBA" href="https://steamcommunity.com/id/MJBA" alt="Steam" /></p></div>
+<a href="https://steamcommunity.com/id/MJBA" target="_blank">
+<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBA" alt="Steam" /></p></a></div>
 
 <br/>
 
