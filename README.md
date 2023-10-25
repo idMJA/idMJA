@@ -51,4 +51,9 @@ I Work as **Nothing** :(
 <br/>
 
 <div align="center">
+<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBA" href="https://steamcommunity.com/id/MJBA" alt="Steam" /></p></div>
+
+<br/>
+
+<div align="center">
 <p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p></div>
