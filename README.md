@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **MJ1532**
+I'm **MJ**
 I Work as **Nothing** :(
 
 - 🔭 I’m currently working on KejuGroup
@@ -8,7 +8,7 @@ I Work as **Nothing** :(
 
 ## Contact Me
 <div align="center">
-<a href="https://github.com/MJ1532" target="_blank">
+<a href="https://github.com/idMJA" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@mj1-" target="_blank">
@@ -20,17 +20,17 @@ I Work as **Nothing** :(
 
 # Github Stats
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=MJ1532&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=idMJA&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div></p>
 
 <br/>
 
 <div align="center">
-<p><a href="https://github.com/MJ1532"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ1532&hide_border=true&amp;layout=compact&theme=tokyonight" alt="Top Langs" /></p></div>
+<p><a href="https://github.com/idMJA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&hide_border=true&amp;layout=compact&theme=tokyonight" alt="Top Langs" /></p></div>
 
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://streak-stats.demolab.com?user=MJ1532&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p></div>
+<p><img align="center" src="https://streak-stats.demolab.com?user=idMJA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" /></p></div>
 
 <br/>
 
