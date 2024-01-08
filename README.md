@@ -16,6 +16,7 @@
 
 # 💻 Profile Stats:
 ![](https://discord-readme-badge-nine.vercel.app/api?id=885731228874051624)<br/>
+
 ![](https://discord-readme-badge-nine.vercel.app/api?id=949074540380688424)<br/>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
