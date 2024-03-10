@@ -29,8 +29,8 @@
 
 <br/>
 
-<a href="https://steamcommunity.com/id/MJBA" target="_blank">
-<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBA" alt="Steam" /></p></a>
+<a href="https://steamcommunity.com/id/ibMJ" target="_blank">
+<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=ibMJ" alt="Steam" /></p></a>
 
 
 ### ✍️ Random Dev Quote
