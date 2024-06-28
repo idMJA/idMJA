@@ -19,8 +19,8 @@
 
 ![](https://discord-readme-badge-nine.vercel.app/api?id=949074540380688424)<br/>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
-<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
+<p><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a>
 
 <br/>
 
@@ -29,8 +29,8 @@
 
 <br/>
 
-<a href="https://steamcommunity.com/id/ibMJ" target="_blank">
-<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=ibMJ" alt="Steam" /></p></a>
+<a href="https://steamcommunity.com/id/MJBD" target="_blank">
+<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBD" alt="Steam" /></p></a>
 
 
 ### ✍️ Random Dev Quote
