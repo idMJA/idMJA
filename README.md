@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KejuGroup & Citadel Interactive<br>🌱 I’m currently learning everyting 😱
+🔭 I’m currently working on Tronix Development, KejuGroup, and Citadel Interactive<br>🌱 I’m currently learning everyting 😱
 
 
 ## 🌐 Socials:
