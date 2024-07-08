@@ -27,9 +27,6 @@
 
 <br/>
 
-<a href="https://steamcommunity.com/id/MJBD" target="_blank">
-<p><img align="center" src="https://steam-stat.vercel.app/api?profileName=MJBD" alt="Steam" /></p></a>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
