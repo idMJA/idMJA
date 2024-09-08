@@ -11,8 +11,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-contributor-stats.vercel.app/api?username=idMJA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+![](https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false)<br/>
 
 # 💻 Profile Stats:
 ![](https://discord-readme-badge-gray.vercel.app/api?id=885731228874051624)<br/>
