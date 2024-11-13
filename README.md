@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tronix Development and KejuGroup <br>
+🔭 I’m currently working on Tronix Development and Catfein <br>
 🌱 I’m currently learning How to make Discord Bot
 
 ## 🌐 Socials:
