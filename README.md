@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false)<br/>
 
 # 💻 Profile Stats:
-![https://dc.gg/tx](https://lanyard.kyrie25.me/api/885731228874051624?imgStyle=square&waveColor=5865F2&waveSpotifyColor=a836b3)<br/>
+![https://dc.gg/tx](https://https://lanyard.cnrad.dev/api/885731228874051624?imgStyle=square&waveColor=5865F2&waveSpotifyColor=a836b3)<br/>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
 <p><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a>
