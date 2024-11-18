@@ -2,6 +2,8 @@
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
 🌱 I’m currently learning How to make Discord Bot
 
+### K ❤️
+
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/idmja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MJ1-) [![Carrd](https://img.shields.io/badge/My-Carrd-pink)](https://mjba.carrd.co)
 
