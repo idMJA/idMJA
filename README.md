@@ -58,8 +58,6 @@
                 <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="50%">
             <a href="https://open.spotify.com/user/8116baq16nwq1sab8c5dy3rrx" target="_blank">
                 <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent"/>
