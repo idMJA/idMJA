@@ -1,11 +1,14 @@
-<div align="center">
-  <img src="/img/5e89fc020bee11231d7d5ad2e82d82eb-removebg-preview.png" alt="header divider" />
-  <div>
-    ⭐ mal badges
-    📘 blog navigation 
-    📊 graph badges
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="img/alya1.png" alt="header divider" width="300px" />
+    <div>
+      ⭐ mal badges
+      📘 blog navigation 
+      📊 graph badges
+    </div>
+    <img src="img/alya1.png" alt="header divider" width="300px" />
   </div>
-  <img src="/img/5e89fc020bee11231d7d5ad2e82d82eb-removebg-preview.png" alt="header divider" />
+  <img src="img/alya1.png" alt="Alisa" width="200px" style="margin-left: 20px;" />
 </div>
 
 # 💫 About Me:
