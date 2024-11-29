@@ -29,19 +29,19 @@
 <table>
     <tr>
         <td align="center" width="50%">
-            <a href="https://discord.com/users/169711695932030976" target="_blank">
-                <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=88JC&limit=5&theme=dark&bg_color=202225&border_color=202225&hide_border=true&stroke=202225&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+            <a href="https://github.com/idMJA" target="_blank">
+                <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=idMJA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
             </a>
-            <a href="https://github.com/88JC" target="_blank">
-                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
+            <a href="https://github.com/idMJA" target="_blank">
+                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
             </a>
         </td>
         <td align="center" width="50%">
-            <a href="https://github.com/88JC" target="_blank">
-                <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=88JC&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff" alt="GitHub Stats"/>
+            <a href="https://github.com/idMJA" target="_blank">
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
             </a>
-            <a href="https://github.com/88JC" target="_blank">
-                <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=88JC&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10" alt="Top Languages"/>
+            <a href="https://github.com/idMJA" target="_blank">
+                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
             </a>
         </td>
     </tr>
