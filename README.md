@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="/img/5e89fc020bee11231d7d5ad2e82d82eb-removebg-preview.png" alt="header divider" />
+  <div>
+    ⭐ mal badges
+    📘 blog navigation 
+    📊 graph badges
+  </div>
+  <img src="/img/5e89fc020bee11231d7d5ad2e82d82eb-removebg-preview.png" alt="header divider" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
 🌱 I’m currently learning How to make Discord Bot
