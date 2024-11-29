@@ -1,17 +1,17 @@
-<div align="right" style="display: flex; align-items: center; justify-content: flex-end;">
-  <div style="flex: 1; text-align: right;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: center;">
     <img src="img/alya1.png" alt="header divider" width="300px" />
-    <div align="center" style="font-size: 20px; font-weight: bold;">
-      Welcome to my Profile!
-      <br/>
-      <div style="font-size: 16px; margin-top: 10px;">
-        ⭐ mal badges
-        📘 blog navigation 
-        📊 graph badges
-      </div>
+    <div style="font-size: 20px; font-weight: bold;">
+      ✨ Welcome ✨
+    </div>
+    <div style="font-size: 16px; margin-top: 10px;">
+      ⭐ mal badges
+      📘 blog navigation 
+      📊 graph badges
     </div>
     <img src="img/alya1.png" alt="header divider" width="300px" />
   </div>
+  <img src="img/alya1.png" alt="Character" width="150px" style="margin-left: 20px;" />
 </div>
 
 # 💫 About Me:
