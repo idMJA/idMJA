@@ -1,3 +1,10 @@
+<div style="display: flex; align-items: center; justify-content: flex-end; position: relative;">
+    <div style="position: absolute; left: 0; right: 0; text-align: center;">
+      <span style="font-size: 20px; font-weight: bold;">Welcome to my Profile!</span>
+    </div>
+    <img src="img/alya1.png" alt="header divider" width="300px" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
 🌱 I’m currently learning How to make Discord Bot
