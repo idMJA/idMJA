@@ -48,17 +48,25 @@
 </table>
 
 # 💻 Profile Stats:
-![https://dc.gg/tx](https://lanyard.cnrad.dev/api/885731228874051624)<br/>
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&redirect=true" target="_blank">
-<p><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></p></a>
-
-<br/>
-
-<a href="https://open.spotify.com/user/8116baq16nwq1sab8c5dy3rrx" target="_blank">
-<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent" /></p></a>
-
-<br/>
+<table>
+    <tr>
+        <td align="center" width="100%">
+            <a href="https://mjba.live" target="_blank">
+                <img width="100%" src="https://lanyard.cnrad.dev/api/885731228874051624" alt="Discord Status"/>
+            </a>
+            <a href="https://mjba.live" target="_blank">
+                <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="100%">
+            <a href="https://open.spotify.com/user/8116baq16nwq1sab8c5dy3rrx" target="_blank">
+                <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
 
 ### ✍️ Random Dev Quote
