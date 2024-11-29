@@ -1,17 +1,17 @@
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
+<div align="right" style="display: flex; align-items: center; justify-content: flex-end;">
+  <div style="flex: 1; text-align: right;">
     <img src="img/alya1.png" alt="header divider" width="300px" />
-    <div style="font-size: 20px; font-weight: bold;">
-      ✨ Welcome ✨
-    </div>
-    <div style="font-size: 16px; margin-top: 10px;">
-      ⭐ mal badges
-      📘 blog navigation 
-      📊 graph badges
+    <div align="center" style="font-size: 20px; font-weight: bold;">
+      Welcome to my Profile!
+      <br/>
+      <div style="font-size: 16px; margin-top: 10px;">
+        ⭐ mal badges
+        📘 blog navigation 
+        📊 graph badges
+      </div>
     </div>
     <img src="img/alya1.png" alt="header divider" width="300px" />
   </div>
-  <img src="img/alya1.png" alt="Character" width="150px" style="margin-left: 20px;" />
 </div>
 
 # 💫 About Me:
@@ -26,10 +26,26 @@
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=idMJA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=idMJA&theme=tokyonight&hide_border=false)<br/>
+<table>
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://discord.com/users/169711695932030976" target="_blank">
+                <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=88JC&limit=5&theme=dark&bg_color=202225&border_color=202225&hide_border=true&stroke=202225&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+            </a>
+            <a href="https://github.com/88JC" target="_blank">
+                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <a href="https://github.com/88JC" target="_blank">
+                <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=88JC&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff" alt="GitHub Stats"/>
+            </a>
+            <a href="https://github.com/88JC" target="_blank">
+                <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=88JC&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10" alt="Top Languages"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
 # 💻 Profile Stats:
 ![https://dc.gg/tx](https://lanyard.cnrad.dev/api/885731228874051624)<br/>
