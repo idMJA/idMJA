@@ -1,11 +1,7 @@
 <div align="center">
-  <iframe 
-    src="index.html"
-    width="100%"
-    height="400px"
-    frameborder="0"
-    scrolling="no"
-  ></iframe>
+  <a href="index.html">
+    <img src="index.html" width="100%" height="400px" />
+  </a>
 </div>
 
 
