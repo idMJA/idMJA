@@ -14,6 +14,11 @@
   </div>
 </div>
 
+<div>
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg" style="vertical-align: middle;" width="100px"/>
+    <span style="vertical-align: middle;">Here is some text.</span>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
 🌱 I’m currently learning How to make Discord Bot
