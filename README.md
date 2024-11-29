@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="index.html">
-    <img src="https://idmja.github.io/idMJA/" width="100%" height="400px" />
-  </a>
-</div>
-
+![header](https://idmja.github.io/idMJA)
 
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
