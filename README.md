@@ -50,7 +50,7 @@
 # 💻 Profile Stats:
 <table>
     <tr>
-        <td align="center" width="100%">
+        <td align="center" width="50%">
             <a href="https://mjba.live" target="_blank">
                 <img width="100%" src="https://lanyard.cnrad.dev/api/885731228874051624" alt="Discord Status"/>
             </a>
@@ -60,7 +60,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="100%">
+        <td align="center" width="50%">
             <a href="https://open.spotify.com/user/8116baq16nwq1sab8c5dy3rrx" target="_blank">
                 <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=8116baq16nwq1sab8c5dy3rrx" alt="Spotify Recent"/>
             </a>
