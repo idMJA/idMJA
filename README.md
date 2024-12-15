@@ -1,5 +1,3 @@
-![header](https://idmja.github.io/idMJA)
-
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
 🌱 I’m currently learning How to make Discord Bot
