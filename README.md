@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [Tronix Development](https://dc.gg/tx) and [Catfein](https://catfein.co.id) <br>
-🌱 I’m currently learning How to make Discord Bot
+🌱 I’m currently learning How to make Discord Bot <br>
 🔥 I'm making discord bot using [Seyfert](https://seyfert.dev) and i still new
 
 ## 🌐 Socials:
