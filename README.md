@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/idmja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MJ1-) [![Carrd](https://img.shields.io/badge/My-Carrd-pink)](https://mjba.carrd.co)
 
 # 💻 Tech Stack:
-![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Shell Script](https://skillicons.dev/icons?i=bash) ![HTML5](https://skillicons.dev/icons?i=html) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![GithubPages](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel)
+![Bun](https://skillicons.dev/icons?i=bun) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Shell Script](https://skillicons.dev/icons?i=bash) ![HTML5](https://skillicons.dev/icons?i=html) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![GithubPages](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) 
 # 📊 GitHub Stats:
 <table>
     <tr>
@@ -21,10 +21,10 @@
         </td>
         <td align="center" width="50%">
             <a href="https://github.com/idMJA" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+                <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
             </a>
             <a href="https://github.com/idMJA" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+                <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
             </a>
         </td>
     </tr>
@@ -34,10 +34,10 @@
 <table>
     <tr>
         <td align="center" width="50%">
-            <a href="https://mjba.live" target="_blank">
+            <a href="https://mjba.my" target="_blank">
                 <img width="100%" src="https://lanyard.cnrad.dev/api/885731228874051624" alt="Discord Status"/>
             </a>
-            <a href="https://mjba.live" target="_blank">
+            <a href="https://mjba.my" target="_blank">
                 <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8116baq16nwq1sab8c5dy3rrx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
             </a>
         </td>
