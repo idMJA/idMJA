@@ -24,7 +24,7 @@
                 <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
             </a>
             <a href="https://github.com/idMJA" target="_blank">
-                <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+                <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api/top-langs/?username=idMJA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,php,blade" alt="Top Languages"/>
             </a>
         </td>
     </tr>
