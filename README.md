@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/idmja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MJ1-) [![Carrd](https://img.shields.io/badge/My-Carrd-pink)](https://mjba.carrd.co)
 
 # 💻 Tech Stack:
-![Bun](https://skillicons.dev/icons?i=bun) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Shell Script](https://skillicons.dev/icons?i=bash) ![HTML5](https://skillicons.dev/icons?i=html) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![GithubPages](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Bun](https://skillicons.dev/icons?i=bun) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Shell Script](https://skillicons.dev/icons?i=bash) ![Other](https://skillicons.dev/icons?i=python,java,rust) ![HTML5](https://skillicons.dev/icons?i=html) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![GithubPages](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) 
 # 📊 GitHub Stats:
 <table>
     <tr>
