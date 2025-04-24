@@ -48,6 +48,13 @@
         </td>
     </tr>
 </table>
+<table>
+    <td align="center" width="50%">
+            <a href="https://open.spotify.com/user/8116baq16nwq1sab8c5dy3rrx" target="_blank">
+                <img width="100%" src="https://github-readme-stats-three-pi-97.vercel.app/api/wakatime?username=MJA&theme=tokyonight" alt="Language Stats"/>
+            </a>
+        </td>
+</table>
 
 
 ### ✍️ Random Dev Quote
