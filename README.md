@@ -112,3 +112,7 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+    <img src="https://count.getloli.com/@:mjba" alt="Visitor Counter"/>
+</div>
