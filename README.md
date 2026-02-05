@@ -2,7 +2,7 @@
 # 💫 About Me
 <div align="center">
     <p>
-        Currently working at <a href="https://dc.gg/tx" target="_blank"><b>Tronix Development</b></a> &amp; <a href="https://catfein.co.id" target="_blank"><b>Catfein</b></a>
+        Currently working at <a href="https://dc.gg/tx" target="_blank"><b>Tronix Development</b></a> &amp; <a href="https://discord.my.id" target="_blank"><b>Discord ID</b></a>
     </p>
     <p>
         <b>🌱 Currently Learning:</b> 
